@@ -1,4 +1,8 @@
 # build files
 build/
 
+# Test project files
+Tests/**.cpp
+Tests/**.hpp
+
 # IDE project files
